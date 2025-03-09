@@ -83,6 +83,3 @@ Atau melalui Android Studio:
 - Pastikan emulator/perangkat terhubung
 - Klik kanan pada file test
 - Pilih "Run 'TestClassName'"
-
-## Kesimpulan
-Proyek ini menunjukkan praktik terbaik dalam membuat pengujian untuk aplikasi Android dengan membuat lebih dari jumlah minimum unit test (6 unit test) dan instrumented test (4 instrumented test) yang diminta (minimal 2 untuk masing-masing jenis).
